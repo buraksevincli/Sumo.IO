@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5fa4d17ed3c041bfbfb74b068a4760c, type: 3}
+  m_Name: PlayerHitData
+  m_EditorClassIdentifier: 
+  startPower: 8
+  powerIncreaseCoefficient: 2
+  scaleIncreaseCoefficient: 0.05
+  sideBackMultiplier: 1.2
+  frontMultiplier: 1.1
+  backMultiplier: 1.4
+  frontDefMultiplier: 0.9
